@@ -1,6 +1,7 @@
-Lyn here 🌷
+Lyn here 🌷🍓
 
 I'm a junior studying Computer Science & Desgin at Georgia Tech!
+
 
 <!--
 **lynjung/lynjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
