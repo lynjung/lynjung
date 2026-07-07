@@ -1,6 +1,6 @@
 Lyn here 🍓
 
-I'm a junior studying Computer Science & Desgin at Georgia Tech! :D
+I'm a junior studying Computer Science & Desgin at Georgia Tech! :)
 
 
 <!--
