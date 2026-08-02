@@ -1,19 +1,10 @@
-Lyn here 🍓
+# Hi, I'm Lyn Jung
 
-I'm a junior studying Computer Science & Desgin at Georgia Tech! :)
+I'm a Georgia Tech Computational Media student and a web developer for the Georgia Tech School of Physics. I focus on front-end and full-stack engineering, with an interest in building accessible, responsive products that feel clear and polished.
 
+- I manage and improve a public Drupal website used by Georgia Tech faculty, staff, students, and visitors.
+- I build with JavaScript, TypeScript, React, Next.js, HTML/CSS, and PostgreSQL.
+- Recent projects include a multi-currency finance web app, a full-stack study planner, and the production landing page for Symphony.
+- I'm seeking Summer 2027 front-end, software, full-stack, and product engineering internships.
 
-<!--
-**lynjung/lynjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://lynjung.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lynjung/) · [Email](mailto:lynssjung@gmail.com)
