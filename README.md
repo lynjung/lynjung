@@ -1,4 +1,4 @@
-# Hi, I'm Lyn Jung
+# Hi, I'm Lyn Jung 🍓
 
 I'm a Georgia Tech Computational Media student and a web developer for the Georgia Tech School of Physics. I focus on front-end and full-stack engineering, with an interest in building accessible, responsive products that feel clear and polished.
 
